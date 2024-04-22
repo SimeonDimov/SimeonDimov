@@ -1,5 +1,3 @@
-Based on the information gathered from your GitHub profile and personal website, here's a draft for your GitHub README that showcases your skills and projects:
-
 ---
 
 # Simeon Dimov
